@@ -32997,6 +32997,9 @@ a.social-btn:hover {
 .at_offcanvus_menu.active {
   right: 0;
 }
+.logo-wrapper img{
+  width: 150px;
+}
 .at_offcanvus_menu.active .at-offcanvus-close {
   -webkit-animation: 1s fadeInRight;
           animation: 1s fadeInRight;
