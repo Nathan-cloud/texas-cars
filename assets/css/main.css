@@ -32997,6 +32997,10 @@ a.social-btn:hover {
 .at_offcanvus_menu.active {
   right: 0;
 }
+.feedback-slider-area {
+  position: relative;
+    top: -200px;
+}
 .logo-wrapper img{
   width: 150px;
 }
